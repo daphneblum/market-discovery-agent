@@ -87,6 +87,8 @@ New data sources and classifiers can be added easily
 
 📊 Example Output
 The workflow generates structured trend reports like:
+![trend summary](<assets/Screenshot 2026-04-05 at 3.57.15 PM.png>)
+
 
 Executive Summary
 
